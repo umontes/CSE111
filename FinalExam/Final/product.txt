@@ -1,0 +1,12 @@
+100001|pc|P1
+100002|pc|P2
+100003|pc|P2
+100004|pc|P3
+100005|pc|P1
+200001|laptop|P4
+200002|laptop|P5
+200003|laptop|P1
+200004|laptop|P3
+300001|printer|P6
+300002|printer|P6
+300003|printer|P2

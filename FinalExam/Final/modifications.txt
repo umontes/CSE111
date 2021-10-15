@@ -1,0 +1,10 @@
+Product I 100006 pc P2
+Distributor I 100006 D2 1198
+Distributor I 100005 D2 1098
+Distributor I 100006 P2 997
+Product D 200001
+Distributor D 100003 D3
+Distributor D 100002 P2
+Product I 300004 printer P3
+Distributor I 300004 P3 168
+Distributor D 300001 D2
